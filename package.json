@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marcinzbor.github.io/goit-react-hw-03-phonebook/",
+  "homepage": "https://marcinzbor.github.io/goit-react-hw-04-phonebook/",
   "babel": {
     "presets": [
       "@babel/preset-env",
