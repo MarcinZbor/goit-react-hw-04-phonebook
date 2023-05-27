@@ -16,6 +16,7 @@ import styles from './App.module.css';
     filter: '',
   };
 
+  // Hello
   componentDidMount() {
     const contacts = localStorage.getItem("contacts");
     const parsedContacts = JSON.parse(contacts);
